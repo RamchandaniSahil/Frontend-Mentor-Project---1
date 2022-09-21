@@ -5,6 +5,10 @@
         flex-direction: column;
     }
 
+    .left-div {
+        width: 100%;
+    }
+
     .image-desktop {
         display: none;
     }
